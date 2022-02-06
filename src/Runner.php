@@ -1,3 +1,5 @@
+<?php
+
 namespace Hexlet\Php\Runner;
 
 function run()
