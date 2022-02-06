@@ -1,0 +1,16 @@
+{
+    "name": "voitov/nikita",
+    "description": "my_project",
+    "autoload": {
+        "psr-4": {
+            "Voitov\\Nikita\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Voitov",
+            "email": "pochta5343@mail.ru"
+        }
+    ],
+    "require": {}
+}
